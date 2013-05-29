@@ -1,3 +1,8 @@
+// curtainhook.scad
+// A curtain hook
+// 
+// Copyright 2013 Christopher Roberts
+
 // Global Parameters
 hook_diameter_ext   = 15.8;
 hook_thickness      = 2.55;
